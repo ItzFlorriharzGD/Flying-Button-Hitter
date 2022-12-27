@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+canvas {
+  display: block;
+}
+h1{
+  color: white;
+  font-family: cursive;
+}
+#button {
+  position: absolute;
+  top: 500px;
+  left: 100px;
+  color: white;
+  background: black;
+  font-family: cursive;
+}
